@@ -15,3 +15,10 @@ project/plugins/project/
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
+
+#Eclipse stuff
+org.eclipse.core.resources.prefs
+org.scala-ide.sdt.core.prefs
+
+.project
+.cache-main
